@@ -16,14 +16,6 @@ Haberler, **NewsAPI** üzerinden çekilerek dinamik olarak görüntülenir. Kull
 
 ---
 
-## 📸 **Ekran Görüntüleri**
-
-| Ana Sayfa  | Gündem Sayfası |
-|------------|---------------|
-| ![Ana Sayfa](screenshots/homepage.png) | ![Gündem](screenshots/gundem.png) |
-
----
-
 ## 🚀 **Kurulum & Kullanım**
 
 ### 1️⃣ **Projeyi Klonla**
